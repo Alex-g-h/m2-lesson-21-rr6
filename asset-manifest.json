@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/m2-lesson-21-rr6/static/css/main.e6c13ad2.css",
+    "main.js": "/m2-lesson-21-rr6/static/js/main.e1f6911e.js",
+    "index.html": "/m2-lesson-21-rr6/index.html",
+    "main.e6c13ad2.css.map": "/m2-lesson-21-rr6/static/css/main.e6c13ad2.css.map",
+    "main.e1f6911e.js.map": "/m2-lesson-21-rr6/static/js/main.e1f6911e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e1f6911e.js"
+  ]
+}
